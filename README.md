@@ -35,15 +35,14 @@
 
 ### 🚀 Projects
 
-- **🍱 Food Connect – Java Full Stack Project**  
-  A platform to track and reduce food waste using efficient resource management.  
-  🔗 GitHub: https://github.com/Geethikadarla7/Java-Full-Stack-Project-On-Food-Connect
+| Project | Description | Link |
+|---------|-------------|------|
+| **🎤 Voice Aided ATM** | Voice-enabled ATM system for user-friendly and accessible banking. | [GitHub](https://github.com/Geethikadarla7/Voice_aided_Atm) |
+| **🌾 Agriculture & Their Products** | Simple agriculture product display and management project. | [GitHub](https://github.com/Geethikadarla7/Agriculture-and-their-produts) |
+| **🐶 Petshop Management System (Java GUI)** | Pet shop billing, inventory, and customer management using Java Swing. | [GitHub](https://github.com/Geethikadarla7/Petshop-Management-System-using-JAVA-GUI) |
+| **🍱 Food Connect – Java Full Stack** | Platform to reduce food waste using Spring Boot, JSP, MySQL. | [GitHub](https://github.com/Geethikadarla7/Java-Full-Stack-Project-On-Food-Connect) |
+| **💊 Pharmacy Product Management System** | Tracks medicine expiry & inventory using PHP and MySQL. | [GitHub](https://github.com/Geethikadarla7/Web-based-Pharmacy-Product-Management-System-using-PHP-and-MySQL-Database) |
 
-- **💊 Web-based Pharmacy Product Management System**  
-  A PHP & MySQL system to manage pharmacy products and monitor expiry dates.  
-  🔗 GitHub: https://github.com/Geethikadarla7/Web-based-Pharmacy-Product-Management-System-using-PHP-and-MySQL-Database
-
-###
 
 ### 🌐 Connect with Me
 
@@ -58,10 +57,6 @@
 
 ###
 
-<br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Geethikadarla7/Geethikadarla7/output/snake.svg)
-
-###
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Geethikadarla7&style=for-the-badge)
